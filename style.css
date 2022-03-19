@@ -114,7 +114,6 @@ body{
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    overflow: hidden;
     padding: 3px;
     background: linear-gradient(45deg, rgb(255,230,0),rgb(255,0,128) 80%);
 }
